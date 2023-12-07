@@ -1,0 +1,2 @@
+control C should desapear
+control \ should be fix, it should not apear

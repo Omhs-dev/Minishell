@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.jsx": "javascriptreact",
+        "minishell.h": "c",
+        "unistd.h": "c",
+        "time.h": "c",
+        "ft_printf.h": "c",
+        "libft.h": "c",
+        "get_next_line_bonus.h": "c",
+        "garbage_collector.h": "c",
+        "signals.h": "c",
+        "builtins.h": "c"
+    }
+}
